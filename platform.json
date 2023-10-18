@@ -47,7 +47,7 @@
       "type": "framework",
       "optional": true,
       "owner": "earlephilhower",
-      "version": "https://github.com/earlephilhower/arduino-pico/releases/tag/3.6.0"
+      "version": "https://github.com/earlephilhower/arduino-pico/tree/master"
     },
     "tool-rp2040tools": {
       "type": "uploader",
